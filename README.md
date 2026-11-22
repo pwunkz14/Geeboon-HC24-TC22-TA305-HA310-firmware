@@ -18,8 +18,8 @@ This guide provides step-by-step instructions for updating the firmware on Geebo
 
 | Model(s)       | Latest Firmware (as of Mai 2026) 
 |----------------|---------------------------------|
-| TC22, HC24     | `TC22_HC24_1.28.bin`            | 
-| TA305, HA310   | `TA305_HA310_1.22.bin`          |
+| TC22, HC24     | `TC22_HC24_1.31.bin`            | 
+| TA305, HA310   | `TA305_HA310_1.32.bin`          |
 
 
 > Additional sources:
